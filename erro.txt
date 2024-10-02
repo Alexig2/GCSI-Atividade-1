@@ -1,7 +1,0 @@
-Não sei ao certo pra que serve esse arquivo.
-Mas serviria para dizer algum erro.
-Se você não conseguiu iniciar o sistema,
-talvez seja porque não tem porta configurada.
-Se você tiver outro problema, aí eu não posso
-te ajudar, porque eu não sei muito de JavaScript.
-Então, conserte você mesmo.
